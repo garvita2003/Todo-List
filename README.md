@@ -1,5 +1,6 @@
 # Todo-List
 This is a project that is used to work in a similar way as todo list to add and delete things from the list.
+During deletion of a item we have pop for confirmation.
 
 # Technology/Language Used
 1) HTML
